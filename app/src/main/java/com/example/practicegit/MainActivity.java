@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("Hi Branch is Added Feature");
         System.out.println("Hi Branch is Added Another Feature");
+        int a =2;
+        int b = a+2;
 
     }
 }
