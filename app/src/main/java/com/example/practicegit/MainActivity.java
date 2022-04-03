@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("Hi Branch is Added Feature");
+        System.out.println("Hi Branch is Added Another Feature");
+
     }
 }
